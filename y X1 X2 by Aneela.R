@@ -1,7 +1,7 @@
 #########################################
 ### Assignment 2 : MS(CS) - Stats 701
  : Yield | Fertilizer | Rainfall
-###Student name: Aneela TTabassum ,
+###Student name: Aneela Tabassum ,
  Registration no. 2017-ag-3643 , 
 Degree and Session : MS(CS) 2017-2019
 #########################################
